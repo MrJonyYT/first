@@ -1,0 +1,13 @@
+# ninja log v5
+0	658	7272865831129834	CMakeFiles/newtest.dir/main.cpp.obj	1df19f46fe034c94
+667	775	7272865832266790	newtest.exe	2cf5d7bace30a3f
+2	516	7272866218823053	CMakeFiles/newtest.dir/main.cpp.obj	1df19f46fe034c94
+516	611	7272866219730332	newtest.exe	2cf5d7bace30a3f
+4	554	7272866416843057	CMakeFiles/newtest.dir/main.cpp.obj	1df19f46fe034c94
+554	672	7272866417980017	newtest.exe	2cf5d7bace30a3f
+3	515	7272866588942709	CMakeFiles/newtest.dir/main.cpp.obj	1df19f46fe034c94
+515	629	7272866590039756	newtest.exe	2cf5d7bace30a3f
+3	500	7272867346885197	CMakeFiles/newtest.dir/main.cpp.obj	1df19f46fe034c94
+500	603	7272867347872547	newtest.exe	2cf5d7bace30a3f
+3	585	7272868611054950	CMakeFiles/newtest.dir/main.cpp.obj	1df19f46fe034c94
+586	678	7272868611942562	newtest.exe	2cf5d7bace30a3f
