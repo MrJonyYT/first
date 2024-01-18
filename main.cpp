@@ -15,6 +15,6 @@ int main()
         cout << c;
     }else
     {
-        cout<<"nizya takoe";
+        cout<<"nizya takoe, meow";
     }
 }
